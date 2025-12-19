@@ -36,7 +36,7 @@ Every day, I try to understand something new — and create something meaningful
 
 ### Connect With Me  
 - 📧 Email: **rithirithika1230@gmail.com**  
-- 🔗 LinkedIn: **linkedin.com/in/rithika-l**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/rithika-l-4060a4256**
 
 ---
 
