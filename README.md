@@ -168,7 +168,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.E. – Computer Science & Engineering | PERI Institute of Technology, Manivakkam, Chennai | 2022 – 2026 | Pursuing |
+| B.E. – Computer Science & Engineering | PERI Institute of Technology, Manivakkam, Chennai | 2022 – 2026 | Degree Completed |
 
 </div>
 
