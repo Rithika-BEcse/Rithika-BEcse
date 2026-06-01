@@ -136,12 +136,13 @@ print(me.motto())
 <div align="center">
 
 | Project | Stack | Highlights |
-|---------|-------|------------|
-| [**SmartSales Analytics**](https://github.com/Rithika-BEcse) — Sales Performance & BI Dashboard | `Python` `SQL` `Excel` `Power BI` | End-to-end EDA pipeline; SQL queries for revenue analysis, customer segmentation & KPI tracking; interactive Power BI dashboards for regional sales insights; identified high-performing products & profitable regions |
-| [**LogiMind Analytics**](https://github.com/Rithika-BEcse) — Logistics Performance & Risk Monitor | `Python` `MySQL` | Processed shipment lifecycle data; automated detection of delayed & high-risk shipments; operational bottleneck identification through structured data evaluation |
+|----------|----------|----------|
+| [**🚚 Jai Logistics Command Centre**](https://github.com/Rithika-BEcse/Jai_Logistics_Command_Centre) | `Python` `SQL` `Machine Learning` `PostgreSQL` `Streamlit` | End-to-end logistics analytics platform featuring shipment tracking, delay prediction, fleet utilization analysis, KPI monitoring, business intelligence dashboards, and operational decision support. |
+| [**📈 SmartSales Analytics**](https://github.com/Rithika-BEcse/SmartSales_Analytics) | `Python` `SQL` `Excel` `Power BI` | Comprehensive sales analytics solution with data cleaning, EDA, KPI reporting, customer segmentation, revenue analysis, and interactive business dashboards for performance monitoring. |
+| [**🥗 Smart Fridge AI Food Freshness Monitoring System**](https://github.com/Rithika-BEcse/SmartFridge-AI-Food-Freshness-Monitoring) | `Python` `TensorFlow` `OpenCV` `Flask` `SQLite` | AI-powered food freshness monitoring system using computer vision, barcode scanning, dashboard analytics, freshness prediction, and smart alert notifications to reduce food waste. |
+| [**📊 Student Data Analyzer**](https://github.com/Rithika-BEcse/student-data-analyzer) | `Python` `Pandas` `Matplotlib` | Student performance analytics project involving data cleaning, exploratory data analysis, visualization, trend identification, and actionable academic insights. |
 
 </div>
-
 ---
 
 ## 🏅 Achievements & Certifications
